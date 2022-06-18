@@ -1,1 +1,2 @@
 https://intellipaat.com/blog/tutorial/devops-tutorial/git-cheat-sheet/
+https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aae
